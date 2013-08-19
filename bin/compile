@@ -4,6 +4,8 @@
 # fail fast
 set -e
 
+echo "foo"
+
 DEPENDENCY_S3_BUCKET_PATH="http://s3.amazonaws.com/mono-dependencies"
 
 # config
